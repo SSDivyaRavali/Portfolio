@@ -1,5 +1,20 @@
-title: Divya Ravali
-logo: /Images/headshot_circle.png
+title: <p align="center"> Divya Ravali </p>
+
+logo: "/images/picture.png?raw=true"
 #description: text below image
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/divya-ravali-0026/">LinkedIn</a> |
+  <a href="http://github.com/SSDivyaRavali">GitHub</a>
+  </p>
+
+  <p align="justify">
+  I am currently a Data Scientist at Cognizer with a focus on NLP and Deep Learning in Legal Domain.
+  <br><br>
+  I have PG Level Advanced Certification in Computational Data Science at Indian Institute of Science, Bangalore, India.
+  <br><br>
+  </p>
 show_downloads: true
 theme: jekyll-theme-minimal
