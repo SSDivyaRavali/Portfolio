@@ -26,7 +26,7 @@ XGBoost, PCA, Deep Neural Networks
 
 <div style="text-align: justify">In this project I am going to build an AI-powered mentor that simplifies Generative AI learning, resume preparation, interview assistance, and job search..</div>
 <br>
-<center><img src="images/multiagent.png"/></center>
+<center><img src="../images/multiagent.png"/></center>
 <br>
 
 
