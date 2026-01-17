@@ -72,7 +72,7 @@ the model via a Flask web application enabling users to upload CT images for rea
 ### Virtual Try-On using OpenCV,Python
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SSDivyaRavali/body-parts-recognition)
-[![Documentation](https://img.shields.io/badge/Documentation-yellow)]("./pdf/tryon.docx")
+[![Documentation](https://img.shields.io/badge/Documentation-yellow)]("https://github.com/SSDivyaRavali/Portfolio/blob/eccfadc39ed61d5f4479c8a3e115f9234daf508b/pdf/tryon.pdf")
 
 <div style="text-align: justify">A web application for displaying real-time or uploaded image virtual try-on of in-shop fashion accessories.Dataset was created
 by scraping instagram pictures & annotated for keypoints.Implementation involves face detection and fiducial keypoints detection using pre-trained and custom models to place an
